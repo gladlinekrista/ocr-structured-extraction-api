@@ -1,4 +1,4 @@
-# 🔎 OCR Structured Extraction API
+#  OCR Structured Extraction API
 
 A REST API and web UI that turns uploaded images into **machine-readable text and structured fields**: image → OCR → regex extraction → JSON.
 
