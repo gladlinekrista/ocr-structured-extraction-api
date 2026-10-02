@@ -68,7 +68,7 @@ streamlit run streamlit_app.py
 See `STREAMLIT_GUIDE.md` for UI details.
 
 ## My contribution
-> **[Confirm and edit]**: Built a FastAPI-based OCR service using Tesseract and Pillow to process document images and extract text through API endpoints. Implemented the backend workflow to make document text accessible for downstream processing.).
+>  Built a FastAPI-based OCR service using Tesseract and Pillow to process document images and extract text through API endpoints. Implemented the backend workflow to make document text accessible for downstream processing.
 
 ## Limitations
 - Regex finds *patterns*, not meaning; unusual formats can be missed.
