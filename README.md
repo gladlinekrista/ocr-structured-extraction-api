@@ -40,11 +40,11 @@ curl -X POST http://localhost:8000/ocr/structured -F "file=@sample.png"
 ```
 ```json
 {
-  "text": "Name: Mia\nEmail: mia@example.com\nPhone: 9876543210",
+  "text": "Name: Mia\nEmail: mia@example.com\nPhone: 98********",
   "confidence": 91.4,
   "fields": {
     "emails": ["mia@example.com"],
-    "phones": ["9876543210"]
+    "phones": ["98********"]
   }
 }
 ```
